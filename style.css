@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+
+    color: blue
+  }
+  
+  
+  p {
+    text-align: center;
+  }
+  
+  a {
+ 
+    color: red
+  }
+  
+  a:hover {
+    color: yellow
+
+  }
+  
+  h3 {
+    
+    color: black
+
+  }
